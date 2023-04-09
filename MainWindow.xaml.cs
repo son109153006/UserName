@@ -24,7 +24,7 @@ namespace user
         {
             InitializeComponent();
         }
-
+        //單機密碼輸入程式
         private void button_go_Click(object sender, RoutedEventArgs e)
         {
             if(username.Text == "abc" && password.Text == "123")
